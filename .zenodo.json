@@ -1,0 +1,7 @@
+{
+  "title": "SCOPE: Subtree Covers over Policy Expressions for Adaptively Secure ABE (reference implementation)",
+  "creators": [{"name": "Riad, Khaled", "affiliation": "King Faisal University, Al-Ahsa, Saudi Arabia"}],
+  "license": "MIT",
+  "upload_type": "software",
+  "keywords": ["attribute-based encryption", "range predicates", "subtree cover", "Internet of Things"]
+}
